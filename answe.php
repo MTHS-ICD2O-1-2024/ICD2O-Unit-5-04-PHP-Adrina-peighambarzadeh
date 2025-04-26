@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <meta name="description" content="The Random Number guess, with PHP" />
+  <meta name="description" content="Student discount for the museum, with PHP" />
   <meta name="keywords" content="math, salary, PHP, income" />
   <meta name="author" content="Adrina.Peighambarzadeh" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -14,7 +14,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png" />
   <link rel="manifest" href="site.webmanifest" />
-  <title>The Random Number guess, with PHP</title>
+  <title>Student discount for the museum, with PHP</title>
 </head>
 
 <body>
@@ -22,12 +22,12 @@
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
     <header class="mdl-layout__header">
       <div class="mdl-layout__header-row">
-        <span class="mdl-layout-title">The Random Number guess, with PHP</span>
+        <span class="mdl-layout-title">Student discount for the museum, with PHP</span>
       </div>
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/dice.gif" alt="Dice gif image" width="500" />
+        <img src="./images/download.jpg" alt="student dicount" width="500" />
       </div>
       <div class="page-content-answer">
         <div id="result">
