@@ -36,7 +36,7 @@
       <div class="page-content-guide">Please enter the day and your age:</div>
 
       <div class="page-content-php">
-        <form method="POST" action="">
+        <form action="answer.php" method="GET"> <!-- Correct form method and action -->
           <div class="mdl-textfield mdl-js-textfield">
             <input class="mdl-textfield__input" type="number" name="user-age" id="user-age" required />
             <label class="mdl-textfield__label" for="user-age">Age...</label>
@@ -56,8 +56,7 @@
             <label class="mdl-textfield__label" for="day">Day...</label>
           </div>
 
-          <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
-            type="submit">
+          <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" type="submit">
             Check
           </button>
         </form>
